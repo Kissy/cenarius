@@ -1,7 +1,5 @@
 package fr.kissy.cenarius.domain;
 
-import com.google.common.collect.Collections2;
-import com.google.common.collect.Lists;
 import fr.kissy.cenarius.domain.card.Card;
 import fr.kissy.cenarius.domain.card.MinionCard;
 import fr.kissy.cenarius.domain.card.MinionType;
@@ -12,7 +10,6 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Deque;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
